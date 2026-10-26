@@ -38,7 +38,7 @@ I'm passionate about learning programming, building projects, and improving my t
 
 ## 🤝 Connect With Me
 
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/tarun262003)
 
 ---
 
